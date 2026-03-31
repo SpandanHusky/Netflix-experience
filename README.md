@@ -20,9 +20,9 @@ It is not affiliated with or endorsed by Netflix. All design and brand assets be
 
 📸 Preview
 <p align="center">
-  <img src="Netflix Image/Image-3.jpeg" width="45%" />
+  <img src="Netflix Images/Image-3.jpeg" width="45%" />
 </p>
 <p align="center">
-  <img src="Netflix Image/Image-2.jpeg" width="45%" />
-  <img src="Netflix Image/Image-1.jpeg" width="45%" />
+  <img src="Netflix Images/Image-2.jpeg" width="45%" />
+  <img src="Netflix Images/Image-1.jpeg" width="45%" />
 </p>
